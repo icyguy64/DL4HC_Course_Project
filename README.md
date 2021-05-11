@@ -11,7 +11,7 @@ Hosted on https://github.com/icyguy64/DL4HC_Course_Project
 
 # Presentation
 
-Hosted on Youtube: 
+Hosted on Youtube: https://youtu.be/c72axK-74NE
 
 ## Dependencies
 * Python 3.8.5 
