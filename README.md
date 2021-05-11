@@ -1,4 +1,4 @@
-Status: Probably wun be maintaining this repository after project submission. Interested readers can contact me at cyl1988@gmail.com
+Status: Active. Interested readers can contact me at cyl1988@gmail.com
 
 
 # DL4HC-BERT
