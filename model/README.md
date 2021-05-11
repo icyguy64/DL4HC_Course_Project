@@ -1,1 +1,1 @@
-This folder contains the trained BERT models (they are large) as well as the word2vec embeddings
+This folder contains the trained BERT models as well as the word2vec embeddings
