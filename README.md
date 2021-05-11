@@ -40,11 +40,11 @@ Now, make sure your python path includes the base directory of this repository. 
 
 ## Saved models
 
-To directly reproduce the results of the paper, first run the ETL and data processing notebooks above. We provide our models for BERT for the MIMIC-III full-label dataset. They are saved as `model_first500only1epoch.bert` in the models directory. We also provide an `evaluate_model.ipynb` notebook to evaluate our model and results from the models.
+To directly reproduce the results of the paper, first run the ETL and data processing notebooks above. We provide our models for BERT for the MIMIC-III full-label dataset. They are saved as `model_first500only1epoch.bert` in the models directory. You can make use of the model training notebook (contains both model training and evaluation) to evaluate our model and obtain results from the models.
 
 ## Training a new model
 
-To train a new model from scratch, please use the jupyter notebook `notebook/training.ipynb`. The notebook contains all the code necessary to reproduce this work. You'll need to manually edit and confirm the directory you'll be loading from in the notebook (after model training and saving is complete) .
+To train a new model from scratch, please use the jupyter notebook `notebook/model_training.ipynb`. The notebook contains all the code necessary to reproduce this work. You'll need to manually edit and confirm the directory you'll be loading from in the notebook (after model training and saving is complete) .
 
 ## Model predictions
 
