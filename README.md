@@ -42,8 +42,6 @@ To train a new model from scratch, please use the jupyter notebook `notebook/tra
 
 The predictions that provide the results in the paper are provided in `predictions/`. Each directory contains: 
 
-* `preds_test.psv`, a pipe-separated value file containing the HADM_ID's and model predictions of all testing examples
-* `train_new_model.sh`, which trains a new model with the hyperparameters provided in the paper.
 * `y_hat_0.csv`, which contains the predictions from the first BERT model. 
 * `y_all_0.csv`, which contains the actual labels from the first BERT model. 
 * `yhat_raws_0.csv`, which contains the raw predictions before rounding from the first BERT model. The number appended behind indicates the index of the BERT model. 0 - First, 500 - Second, 1000 - third, 1500 - fourth, 2000 - fifth
