@@ -4,3 +4,5 @@ preprocessing - ETL only the top-50 medical codes and text-preprocessing,
 model_train - Model training for LR/CNN/BiGRU/CAML,
 model_train_BERT - Proposed BERT model training,
 model_evaluate - to evaluate the model performance
+
+I'll also upload my working copies of my jupyter notebook. So what I have done is work on the project with two separate notebooks one for LR/CNN/GRU/CAML where I mainly made use of James Mullenbach's code, I tried implementing some of the pipelines such as the ETL and text-preprocessing portions and there were many issues faced such as having to change the input formats to the one the models are looking for and another notebook where I made use of a pre-trained BERT model and fine-tune it with the MIMIC-III dataset.
