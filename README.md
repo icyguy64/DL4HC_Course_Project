@@ -21,7 +21,7 @@ Other versions may also work, but the ones listed are the ones I've used
 
 ## Data processing
 
-To get started, first edit the notebook entries to point to the directories holding your copies of the MIMIC-II and MIMIC-III datasets. Then, organize your data with the following structure:
+To get started, first edit the notebook entries to point to the directories holding your copies of the MIMIC-II and MIMIC-III datasets. Then, organize your data with the following structure: I have omitted uploading the MIMIC-III dataset to this repository.
 ```
 └───data/
 |   NOTEEVENTS.csv
