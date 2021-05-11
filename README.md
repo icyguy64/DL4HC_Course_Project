@@ -9,6 +9,10 @@ Code for my project on NLP for Healthcare titled Prediction of Medical Codes fro
 
 Hosted on https://github.com/icyguy64/DL4HC_Course_Project
 
+# Presentation
+
+Hosted on Youtube: 
+
 ## Dependencies
 * Python 3.8.5 
 * pytorch 1.8.1+culll
