@@ -29,14 +29,14 @@ Other versions may also work, but the ones listed are the ones I've used
 
 ## Data processing
 
-To get started, first edit the notebook entries to point to the directories holding your copies of the MIMIC-II and MIMIC-III datasets. Then, organize your data with the following structure: I have omitted uploading the MIMIC-III dataset to this repository.
+To get started, first edit the notebook entries to point to the directories holding your copies of the MIMIC-III datasets. Then, organize your data with the following structure: I have omitted uploading the MIMIC-III dataset to this repository.
 ```
 └───data/
 |   NOTEEVENTS.csv
 |   DIAGNOSES_ICD.csv
 |   PROCEDURES_ICD.csv
 ```
-Now, make sure your python path includes the base directory of this repository. Then, in Jupyter Notebook, run all cells (in the menu, click Cell -> Run All) in  `notebooks/dataproc_mimic_III.ipynb`. These will take some time, so go for a walk or bake some cookies while you wait. You can speed it up by just loading the provided word2vec embeddings and trained models. 
+Now, make sure your python path includes the base directory of this repository. Then, in Jupyter Notebook, run all cells (in the menu, click Cell -> Run All) in  `notebooks/`. These will take some time, so you can speed it up by just loading the provided word2vec embeddings and trained models. You'll need to put all the files in the same folder.
 
 ## Saved models
 
